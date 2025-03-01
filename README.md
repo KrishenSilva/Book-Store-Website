@@ -1,9 +1,3 @@
-This contains the Coullax Intern Project by Krishen Silva.I made a website for a book store containing webpages :
-
-Index
-Review
-Login
-Register
-OrderNow
-
-As per told in the assignment you can create , update , delete comments entered including a star review option 
+A website for a Book Store So customers can order books online 
+Also they can view the reviews of each book
+And give their own reviews as well
